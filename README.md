@@ -21,6 +21,11 @@ Once installed you can use the application by entering the repository location u
 Once run a series of prompts will be shown in the CLI. Once all the prompts have been answered a logo will be created as an svg file in the examples folder.
 A video instruction of how to run the application can be found here:
 
+
+https://github.com/Andysu7117/logo-maker/assets/104291853/47c176c0-6b50-4ee8-9637-858bae7c05a9
+
+
 ## Test
 
 Tests have been written in shapes.test.js in the test folder using Jest. To run the test files, in your CLI you will just have to type (npm run test) like the following screenshot:
+![Screenshot 2023-07-30 195432](https://github.com/Andysu7117/logo-maker/assets/104291853/606d8776-e06c-4def-ab0b-090857ed856e)

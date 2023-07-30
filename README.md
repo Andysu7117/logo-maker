@@ -28,4 +28,5 @@ https://github.com/Andysu7117/logo-maker/assets/104291853/47c176c0-6b50-4ee8-963
 ## Test
 
 Tests have been written in shapes.test.js in the test folder using Jest. To run the test files, in your CLI you will just have to type (npm run test) like the following screenshot:
+
 ![Screenshot 2023-07-30 195432](https://github.com/Andysu7117/logo-maker/assets/104291853/606d8776-e06c-4def-ab0b-090857ed856e)
